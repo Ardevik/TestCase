@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvelliTestCaseWebAPI", "InvelliTestCase\InvelliTestCaseWebAPI.csproj", "{D3EC6CED-C21C-46CB-860F-81CDE531F86F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvelliTestCaseMVC", "InvelliTestCaseMVC\InvelliTestCaseMVC.csproj", "{0B81F740-6748-43DF-A70C-B2CAFDFBE5BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3EC6CED-C21C-46CB-860F-81CDE531F86F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3EC6CED-C21C-46CB-860F-81CDE531F86F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3EC6CED-C21C-46CB-860F-81CDE531F86F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3EC6CED-C21C-46CB-860F-81CDE531F86F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B81F740-6748-43DF-A70C-B2CAFDFBE5BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B81F740-6748-43DF-A70C-B2CAFDFBE5BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B81F740-6748-43DF-A70C-B2CAFDFBE5BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B81F740-6748-43DF-A70C-B2CAFDFBE5BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
