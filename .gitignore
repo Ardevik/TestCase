@@ -1,2 +1,6 @@
 /packages/
 /.vs/
+/InvelliTestCase/bin/
+/InvelliTestCase/obj/
+/InvelliTestCaseMVC/bin/
+/InvelliTestCaseMVC/obj/
